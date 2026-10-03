@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "presets": [
+    { "id": "netflix", "name": "넷플릭스", "short": "넷플릭스", "aliases": ["netflix", "넷플"], "color": "#E50914", "appId": 363590051,
+      "plans": [{ "label": "광고형 스탠다드", "price": 7000 }, { "label": "스탠다드", "price": 13500 }, { "label": "프리미엄", "price": 17000 }] },
+    { "id": "youtube", "name": "유튜브 프리미엄", "short": "유튜브", "aliases": ["youtube", "유튜브", "유튭"], "color": "#FF0000", "appId": 544007664,
+      "plans": [{ "label": "개인", "price": 14900 }] },
+    { "id": "coupang", "name": "쿠팡 와우", "short": "쿠팡 와우", "aliases": ["coupang", "쿠팡", "와우"], "color": "#E52528", "appId": 454434967,
+      "plans": [{ "label": "와우 멤버십", "price": 7890 }] },
+    { "id": "naver", "name": "네이버플러스 멤버십", "short": "네이버+", "aliases": ["naver", "네이버", "네플멤"], "color": "#03C75A", "appId": 393499958,
+      "plans": [{ "label": "월간", "price": 4900 }] },
+    { "id": "tving", "name": "티빙", "short": "티빙", "aliases": ["tving"], "color": "#FF153C", "iconTerm": "티빙",
+      "plans": [{ "label": "광고형 스탠다드", "price": 5500 }, { "label": "베이직", "price": 9500 }, { "label": "스탠다드", "price": 13500 }, { "label": "프리미엄", "price": 17000 }] },
+    { "id": "disney", "name": "디즈니+", "short": "디즈니+", "aliases": ["disney", "디즈니"], "color": "#113CCF", "appId": 1446075923,
+      "plans": [{ "label": "스탠다드", "price": 9900 }, { "label": "프리미엄", "price": 13900 }] },
+    { "id": "wavve", "name": "웨이브", "short": "웨이브", "aliases": ["wavve"], "color": "#1351F9", "iconTerm": "wavve",
+      "plans": [{ "label": "베이직", "price": 7900 }, { "label": "스탠다드", "price": 10900 }, { "label": "프리미엄", "price": 13900 }] },
+    { "id": "spotify", "name": "스포티파이", "short": "스포티파이", "aliases": ["spotify"], "color": "#1DB954", "appId": 324684580,
+      "plans": [{ "label": "개인", "price": 10900 }] },
+    { "id": "icloud", "name": "iCloud+", "short": "iCloud+", "aliases": ["icloud", "아이클라우드"], "color": "#3693F3",
+      "plans": [{ "label": "50GB", "price": 1100 }, { "label": "200GB", "price": 4400 }, { "label": "2TB", "price": 14000 }] },
+    { "id": "baemin", "name": "배민클럽", "short": "배민클럽", "aliases": ["배민", "배달의민족"], "color": "#2AC1BC", "appId": 378084485,
+      "plans": [{ "label": "월간", "price": 3990 }] },
+    { "id": "chatgpt", "name": "ChatGPT Plus", "short": "ChatGPT", "aliases": ["chatgpt", "챗gpt", "챗지피티", "openai"], "color": "#10A37F", "appId": 6448311069,
+      "plans": [{ "label": "Plus", "price": 29000 }] },
+    { "id": "claude", "name": "Claude Pro", "short": "Claude", "aliases": ["claude", "클로드", "anthropic"], "color": "#D97757", "appId": 6473753684,
+      "plans": [{ "label": "Pro", "price": 29000 }] }
+  ]
+}
